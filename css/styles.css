@@ -1,0 +1,57 @@
+body {
+    background-color: aqua;
+    border-color: aliceblue;
+    border-style: dotted;
+}
+hr {
+    background-color: rgb(242, 242, 247);
+    border-style: dotted;
+    width: 0px;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: brown;
+}
+h3 {
+    color: chocolate;
+}
+table {
+    border-color: red;
+}
+img:hover {
+    background-color: gold;
+}
+.d1 {
+    color: green;
+}
+.d2 {
+    color: magenta;
+}
+.d3 {
+    color: red;
+    background-color: lightgrey;
+}
+.d4{
+    color: red;
+    background-color: lightgrey;
+}
+.d5 {
+    color: blue;
+    background-color: lightgrey;
+}
+.d6 {
+    color: orange;
+    background-color: lightgrey;
+}
+.d7 {
+    color:crimson;
+    background-color: lightgray;
+}
+.t1 {
+    background-color:cornflowerblue;
+}
+.t2 {
+    background-color: gold;
+}
